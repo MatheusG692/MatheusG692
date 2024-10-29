@@ -6,3 +6,4 @@ Meu nome é Matheus Guilherme Carneiro
 - Utilizo esse espaço para minha organização e
 compartilhamento dos meus projetos desenvolvidos
 - Sou aluno da matéria de pensamento computacional do 1A
+![descrição do GIF](https://media.tenor.com/kLpYlX_sVa8AAAAM/no-the-office.gif)
