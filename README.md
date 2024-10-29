@@ -1,4 +1,4 @@
-### Boas vindas ao meu perfil /search?q=emoji+feliz&oq=emoji
+### Boas vindas ao meu perfil =)
 
 Meu nome é Matheus Guilherme Carneiro
 - Estou estudando na Alura
